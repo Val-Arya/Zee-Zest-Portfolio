@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vallaree Arya - Writing Portfolio</title>
+</head>
+
+<body>
+
+<h1>Selected Writing & Content Work</h1>
+
+<p>
+A collection of web content, SEO writing, and digital publishing projects.
+</p>
+
+<h2>Samples</h2>
+
+<ul>
+  <li><a href="file-name-1.html">Project 1</a></li>
+  <li><a href="file-name-2.html">Project 2</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-1.html">Project 1</a></li>
+  <li><a href="file-name-2.html">Project 2</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-1.html">Project 1</a></li>
+  <li><a href="file-name-2.html">Project 2</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+  <li><a href="file-name-3.html">Project 3</a></li>
+</ul>
+
+</body>
+</html>
